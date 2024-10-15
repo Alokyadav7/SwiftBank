@@ -4,64 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d332d9ea-de2a-463a-9403-b65939cc62e7" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/app/api/sentry-example-api/route.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/global-errorr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/BankDropdown.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/BankInfo.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/BankTabItem.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Category.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Copy.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Footer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Pagination.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/PaymentTransferForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/PlaidLink.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/RecentTrasaction.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/TransactionsTable.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/progress.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/select.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/table.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/tabs.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/textarea.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instrumentation.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/actions/bank.action.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/actions/dwolla.action.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/actions/transaction.actions.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/appwrite.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/plaid.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/SWIFTBANK.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/auth.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sentry.client.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sentry.edge.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sentry.server.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="d332d9ea-de2a-463a-9403-b65939cc62e7" name="Changes" comment="final commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(auth)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(auth)/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(auth)/sign-up/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(auth)/sign-up/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(root)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(root)/my-banks/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/my-banks/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(root)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(root)/payment-transfer/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/payment-transfer/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(root)/transaction-history/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/transaction-history/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/AnimatedCounter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/AnimatedCounter.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/AuthForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/AuthForm.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/BankCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/BankCard.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/CustomInput.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CustomInput.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/DoughnutChart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/DoughnutChart.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/HeaderBox.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/HeaderBox.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/MobileNav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/MobileNav.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/RightSidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/RightSidebar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Sidebar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/TotalBalanceBox.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/TotalBalanceBox.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constants/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/actions/user.action.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/actions/user.action.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/types/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/types/index.d.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +127,8 @@
       <workItem from="1728892742534" duration="319000" />
       <workItem from="1728900805774" duration="2123000" />
       <workItem from="1728920623262" duration="11381000" />
-      <workItem from="1728969888405" duration="1134000" />
+      <workItem from="1728969888405" duration="1360000" />
+      <workItem from="1728971338277" duration="87000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -241,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722070338184</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="final commit">
+      <option name="closed" value="true" />
+      <created>1728971242969</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728971242969</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +203,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
   </component>
 </project>
