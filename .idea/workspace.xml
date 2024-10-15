@@ -5,8 +5,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d332d9ea-de2a-463a-9403-b65939cc62e7" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/sentry-example-api/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/global-errorr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/BankDropdown.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/BankInfo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/BankTabItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Category.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Copy.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Pagination.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PaymentTransferForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PlaidLink.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/RecentTrasaction.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/TransactionsTable.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/progress.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/select.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/table.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/tabs.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/textarea.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/instrumentation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/actions/bank.action.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/actions/dwolla.action.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/actions/transaction.actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/appwrite.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/plaid.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/SWIFTBANK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/auth.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentry.client.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentry.edge.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentry.server.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(auth)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(auth)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(auth)/sign-up/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(auth)/sign-up/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/my-banks/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/my-banks/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/payment-transfer/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/payment-transfer/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/transaction-history/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/transaction-history/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AnimatedCounter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/AnimatedCounter.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AuthForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/AuthForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/BankCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/BankCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/CustomInput.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CustomInput.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/DoughnutChart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/DoughnutChart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/HeaderBox.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/HeaderBox.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/MobileNav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/MobileNav.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/RightSidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/RightSidebar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Sidebar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/TotalBalanceBox.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/TotalBalanceBox.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/actions/user.action.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/actions/user.action.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/types/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/types/index.d.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +71,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript JSX File" />
         <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -36,6 +91,9 @@
     &quot;accountId&quot;: &quot;bdb940f0-7325-4139-bcca-40d39ec528c9&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
@@ -53,10 +111,9 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/banking-app&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/banking-main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -68,6 +125,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\banking-app\public\icons" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\banking-app" />
       <recent name="E:\banking-app\app" />
@@ -101,7 +161,29 @@
       <workItem from="1721715990314" duration="5632000" />
       <workItem from="1721724128389" duration="1045000" />
       <workItem from="1721906451497" duration="24000" />
-      <workItem from="1722070315441" duration="725000" />
+      <workItem from="1722070315441" duration="3941000" />
+      <workItem from="1722189702595" duration="8187000" />
+      <workItem from="1722531118304" duration="7000" />
+      <workItem from="1722939417868" duration="192000" />
+      <workItem from="1723008058263" duration="109000" />
+      <workItem from="1723267606808" duration="2831000" />
+      <workItem from="1723483245862" duration="112000" />
+      <workItem from="1723710441110" duration="16000" />
+      <workItem from="1725530616670" duration="2681000" />
+      <workItem from="1725551967682" duration="3125000" />
+      <workItem from="1725599526185" duration="691000" />
+      <workItem from="1726116140590" duration="57000" />
+      <workItem from="1726170777096" duration="919000" />
+      <workItem from="1726224224767" duration="13000" />
+      <workItem from="1728566907481" duration="14145000" />
+      <workItem from="1728613946914" duration="2447000" />
+      <workItem from="1728739648147" duration="1042000" />
+      <workItem from="1728827238779" duration="429000" />
+      <workItem from="1728827727511" duration="5633000" />
+      <workItem from="1728892742534" duration="319000" />
+      <workItem from="1728900805774" duration="2123000" />
+      <workItem from="1728920623262" duration="11381000" />
+      <workItem from="1728969888405" duration="1134000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -169,16 +251,5 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/lib/utils.ts</url>
-          <line>2</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
